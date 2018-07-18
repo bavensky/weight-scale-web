@@ -1,0 +1,11 @@
+{
+  "name": "cmmc",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bulma": "^0.6.2",
+    "paho-mqtt": "*",
+    "moment-timezone": "^0.5.14",
+    "components-font-awesome": "^5.0.6"
+  }
+}
